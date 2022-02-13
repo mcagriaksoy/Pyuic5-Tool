@@ -5,4 +5,6 @@ of the included class and calling the convert.ui method at the entry point of yo
 having to deal with the cmd or terminal (dev tool to automate the conversion command). Also it helps to separate the
 .ui files from the .py files in separate folders.
 
+Translated Turkish by [mcagriaksoy](https://github.com/mcagriaksoy)
+
 [Github-Repository](https://github.com/Abdelatief/Pyuic5-Tool)
